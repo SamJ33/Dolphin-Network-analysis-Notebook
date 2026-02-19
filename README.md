@@ -35,7 +35,7 @@ This project analyzes the social network of 62 dolphins based on frequent associ
 
 ## How to Run
 1. Place `dolphins.gml` in the project directory
-2. Open the Jupyter notebook (`Dolphin_SNA.ipynb`)
+2. Open the Jupyter notebook (`Dolphin Social Network-Modeling.ipynb`)
 3. Install required packages:
    ```bash
    pip install networkx pandas matplotlib
